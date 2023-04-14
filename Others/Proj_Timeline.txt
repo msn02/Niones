@@ -1,0 +1,47 @@
+NIONES, MISTY SHAINE S.				
+BS Information Technology 2B
+Web Systems and Technology
+
+		-> FINAL PROJECT - PROFILE PORTFOLIO WEBSITE <-
+
+================ Project timeline for shaine.com ================
+
+-> The purpose of this file is to provide a brief overview of 
+the changes within the website starting from March 21, 2023 until
+the first commit on GitHub. 
+-> Created this file on April 10, 2023. 
+
+=================================================================
+
+[March 21]
+- Start of project
+- Planning phase for website layout (created a prototype in ppt)
+- created 4 blank html files
+
+[Apr 2]
+- mainCss created (The general CSS file for the website)
+- designed navigation bars
+- added gradient background
+
+[Apr 3]
+- FOCUS: About Me page
+	-> added titles and content
+	-> added temporary boxes for images
+
+[Apr 4]
+- FOCUS: About Me page
+	-> revised the content	
+	-> revised the position of texts and images
+
+[Apr 5]
+- Remaining pages were made (portfolio, login page, and future plans)
+- Added boxes as temporary containers for images
+
+[Apr 9]
+- FOCUS: About Me page
+	-> added button-like tags (likes, hobbies, and others)
+
+[Apr 10]
+- revised background color
+	*from maroon-pink, turned into dark blue-purple
+- FOCUS: Log in page

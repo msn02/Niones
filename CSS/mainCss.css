@@ -1,0 +1,52 @@
+html {min-height: 100%}
+body {
+	background-image: linear-gradient(180deg, #1e0641 5%, #a161ff 100%); 
+	background-repeat: no-repeat;
+	margin: 0;
+	min-width: 600px;
+	background-attachment: fixed; 
+}
+p, a {font-family: Arial;}
+
+@font-face {
+	font-family: Atomic;
+	src: url(aAtomicMd.ttf);
+}
+/*NOTE: classes are alphabetically arranged*/
+.container {
+	width: 90%;
+	margin-top: 40px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.logoutButton a {
+	border: 1px solid white;
+	border-radius: 5px;
+	padding: 8px;
+}
+.logoutButton a:hover {
+	background: white;
+	color: black;
+}
+.navbar {
+	padding: 30px;
+}
+.navbar a {
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+	margin-right: 5px;
+	margin-left: 10px;
+	float: right;
+	padding: 8px;
+	vertical-align: middle;
+}
+.nav3 a:active {
+	border-bottom: 2px solid white;
+}
+.titleWeb a {
+	font-family: Atomic;
+	font-size: 25px;
+	color: white;
+	float: left;
+}
