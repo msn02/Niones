@@ -41,8 +41,8 @@ p, a {font-family: Arial;}
 	padding: 8px;
 	vertical-align: middle;
 }
-.nav3 a:active {
-	border-bottom: 2px solid white;
+.nav3 a:hover {
+	color: #a161ff;
 }
 .titleWeb a {
 	font-family: Atomic;
