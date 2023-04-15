@@ -2,7 +2,7 @@ NIONES, MISTY SHAINE S.
 BS Information Technology 2B
 Web Systems and Technology
 
-		-> FINAL PROJECT - PROFILE PORTFOLIO WEBSITE <-
+	-> FINAL PROJECT - PROFILE PORTFOLIO WEBSITE <-
 
 ================ Project timeline for shaine.com ================
 
@@ -45,3 +45,10 @@ the first commit on GitHub.
 - revised background color
 	*from maroon-pink, turned into dark blue-purple
 - FOCUS: Log in page
+
+[Apr 14]
+- FIRST COMMIT on GitHub
+
+[Apr 15]
+- Added images for aboutMe.html
+- Added color on hover for nav bar
