@@ -50,7 +50,7 @@ label.inputBox {
 	font-weight: bold;
 }
 .logInButton input:hover {
-	background-color: #d2f542; /*TO BE CHANGED LATER*/
+	background-color: #a161ff;
 }
 div.smallText {
 	color: red;
