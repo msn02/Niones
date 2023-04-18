@@ -52,3 +52,10 @@ the first commit on GitHub.
 [Apr 15]
 - Added images for aboutMe.html
 - Added color on hover for nav bar
+- modified gradient background
+
+[Apr 18]
+- modified the color of log out button on hover
+- FOCUS: Portfolio page
+	-> added images and img boxes
+	-> revised the heading
