@@ -59,3 +59,9 @@ the first commit on GitHub.
 - FOCUS: Portfolio page
 	-> added images and img boxes
 	-> revised the heading
+*the CSS files was accidentally added along with the html files thus the committed message was 'renamed portfolio..' instead of 'modified color for log in button on hover' and 'updated CSS file'
+
+[Apr 21]
+- removed img borders, added overflow for the aboutMe page
+- added content in the futurePlans page
+- modified some attributes in the futurePlans page
