@@ -14,11 +14,11 @@
 	height: 250px;
 	width: 250px;
 	display: inline-flex;
+	overflow: hidden;
 }
 .imgBox img {
 	width: auto;
 	height: 250px;
-	border-radius: 10px;
 }
 .pBorder {
 	background: transparent;
