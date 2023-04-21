@@ -9,12 +9,33 @@
 	justify-content: center;
 }
 .imgBox {
-	border: 1px solid white;
+	border: 3px solid white;
 	border-radius: 10px;
 	background: white;
-	height: 300px;
+	height: 320px;
 	width: 300px;
+	display: grid;
+	align-content: center;
 } 
+.imgBox:hover {
+	/*add transition*/
+}
+.imgBox p {
+	font-size: 15px;
+	margin-top: 8px;
+}
+.imgBoxTitle p {
+	text-align: center;
+	font-family: Atomic;
+	font-size: 28px;
+	margin-top: 0;
+}
+.imgBox p, .imgBoxTitle p {
+	margin-bottom: 0px;
+	margin-left: 30px;
+	margin-right: 30px;
+	color: #1e0641;
+}
 .picContainer1 { 
 	padding: 10px;
 	display: flex;
