@@ -1,4 +1,7 @@
 /*NOTE: classes are alphabetically arranged*/
+.container {
+	margin-top: 70px;
+}
 .container1 {
 	background: white;
 	border-radius: 10px;
@@ -8,10 +11,17 @@
 	margin-right: auto;
 	margin-top: 20px;
 	padding: 15px;
+	overflow: hidden;
 }
 .container2 {
 	margin-top: 10px;
 	margin-bottom: 20px;
+}
+.titleLabel p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-indent: 5px;
+	font-weight: bold;
 }
 .inputBox {
 	font-family: Arial;
@@ -19,17 +29,17 @@
 	align-self: center;
 }
 input.inputBox {
-	border: 1px solid black;
+	border: 1px solid #1e0641;
 	border-radius: 4px;
 	margin-top: 3px;
-	margin-bottom: 10px;
+	margin-bottom: 0px;
 	width: 90%;
 	padding: 10px;
-	display: flex;
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
-input[type=submit] {
+.logInButton input[type=submit] {
 	display: none;
 	border: none;
 	background: #1e0641;
@@ -52,12 +62,12 @@ label.inputBox {
 .logInButton input:hover {
 	background-color: #a161ff;
 }
-div.smallText {
-	color: red;
-}
-.smallText {
+.smallText p {
 	font-size: 12px;
-	text-align: center;
+	text-indent: 5px;
+	margin-top: 5px;
+	margin-bottom: 8px;
+	color: rgba(0, 0, 0, 0.5);
 }
 .titleContainer1 p {
 	font-family: Atomic;
