@@ -65,3 +65,10 @@ the first commit on GitHub.
 - removed img borders, added overflow for the aboutMe page
 - added content in the futurePlans page
 - modified some attributes in the futurePlans page
+
+[Apr 29]
+- FOCUS: Log In page
+	-> modified the stylesheet
+	-> removed the placeholder, added texts instead
+	-> added functionality (to be modified on a later date)
+- new JS file created (mainJS.js) for the nav bar, to be inserted on aboutMe, portfolio, and futurePlans html files
