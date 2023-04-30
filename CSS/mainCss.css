@@ -28,6 +28,10 @@ p, a {font-family: Arial;}
 	background: white;
 	color: black;
 }
+.navlink[aria-current="page"]{
+	color: #a161ff;
+	border-bottom: 1px solid  #a161ff;
+}
 .navbar {
 	padding: 30px;
 }
