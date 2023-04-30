@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html> 
+<html lang="en"> 
 <head>
 	<title>shaine.com / Log in</title>	
 	<link rel="stylesheet" href="CSS\mainCss.css">
@@ -19,10 +19,10 @@
 				<div class="container2">
 					<span class="titleLabel"><p>Username</p></span>
 					<input class="inputBox" type="text" id="uname" required> 
-					<span class="smallText" id="unameM"> <p>Enter your username</p> </span>
+					<div class="smallText"> <p id="unameM">Enter your username</p> </div>
 					<span class="titleLabel"><p>Password</p></span>
-					<input class="inputBox" type="password" id="pass"> 
-					<span class="smallText" id="passM"> <p>Enter your 8-digit password</p> </span>
+					<input class="inputBox" type="password" id="pass" required> 
+					<div class="smallText"> <p id="passM">Enter your 8-character password</p> </div>
 				</div>
 				<div class="logInButton">
 					<label> <input type="submit" value="Log In" id="submit" onclick="inputChecker()"> </label>
