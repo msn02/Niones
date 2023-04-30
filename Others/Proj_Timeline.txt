@@ -72,3 +72,13 @@ the first commit on GitHub.
 	-> removed the placeholder, added texts instead
 	-> added functionality (to be modified on a later date)
 - new JS file created (mainJS.js) for the nav bar, to be inserted on aboutMe, portfolio, and futurePlans html files
+
+[Apr 30]
+- modified functionality for the log in page
+- added ids for the texts below the input boxes
+- changed the javaScript link in portfolio and futurePlans page
+- modified the source of javascript for the html pages with nav bars
+- added functionality for navigation bars (identify which is the current page in display)
+
+[Apr ]
+-
