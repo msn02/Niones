@@ -55,6 +55,7 @@ input.inputBox {
 	font-weight: bold;
 	font-size: 17px;
 	cursor: pointer;
+	transition: 0.3s;
 }
 label.inputBox {
 	font-weight: bold;
