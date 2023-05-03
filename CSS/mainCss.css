@@ -19,10 +19,19 @@ p, a {font-family: Arial;}
 	margin-right: auto;
 	margin-left: auto;
 }
+.loadingScreen {
+	background-color: #1e0641;
+	width: 100%;
+	height: 100vh;
+	position: absolute;
+	top: 0;
+	left: -100%;
+}
 .logoutButton a {
 	border: 1px solid white;
 	border-radius: 5px;
 	padding: 8px;
+	transition: 0.4s;
 }
 .logoutButton a:hover {
 	background: white;
@@ -44,6 +53,9 @@ p, a {font-family: Arial;}
 	float: right;
 	padding: 8px;
 	vertical-align: middle;
+}
+.nav3 a {
+	transition: 0.3s;
 }
 .nav3 a:hover {
 	color: #a161ff;
