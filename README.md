@@ -1,7 +1,9 @@
-# FINAL Project for Web Systems and Technology
-
-NAME: Misty Shaine Niones <br>
-DATE STARTED: March 21, 2023 <br>
+# Personal Profile Blog
+FINAL PROJECT in Web Systems and Technology<br> 
 <br>
--> Kindly read Proj_Timeline.txt before opening index.html<br>
--> Proj_Timeline.txt can be found at the 'Others' folder
+NAME: <b>Misty Shaine Niones</b> <br>
+COURSE/YEAR/BLOCK: <b>BSIT 2B</b> <br>
+DATE STARTED: <b>March 21, 2023</b> <br>
+<br>
+VIDEO: <br> 
+<br>
