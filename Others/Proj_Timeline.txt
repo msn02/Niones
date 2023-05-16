@@ -2,14 +2,15 @@ NIONES, MISTY SHAINE S.
 BS Information Technology 2B
 Web Systems and Technology
 
-	-> FINAL PROJECT - PROFILE PORTFOLIO WEBSITE <-
+		-> FINAL PROJECT - PROFILE PORTFOLIO WEBSITE <-
 
 ================ Project timeline for shaine.com ================
 
 -> The purpose of this file is to provide a brief overview of 
 the changes within the website starting from March 21, 2023 until
-the first commit on GitHub. 
--> Created this file on April 10, 2023. 
+the last commit on Github.
+-> Created this file on April 10, 2023, and is updated on every 
+commit.
 
 =================================================================
 
@@ -59,7 +60,7 @@ the first commit on GitHub.
 - FOCUS: Portfolio page
 	-> added images and img boxes
 	-> revised the heading
-*the CSS files was accidentally added along with the html files thus the committed message was 'renamed portfolio..' instead of 'modified color for log in button on hover' and 'updated CSS file'
+*the CSS files were accidentally added along with the html files thus the committed message was 'renamed portfolio..' instead of 'modified color for log in button on hover' and 'updated CSS file'
 
 [Apr 21]
 - removed img borders, added overflow for the aboutMe page
@@ -80,5 +81,13 @@ the first commit on GitHub.
 - modified the source of javascript for the html pages with nav bars
 - added functionality for navigation bars (identify which is the current page in display)
 
-[Apr ]
--
+[May 3]
+- added transition for the button on index.html and nav bar
+- working with loading screen (for page transitions)
+
+[May 16]
+- MAJOR REVISION of project
+	-> changed the color theme 
+	-> removed files (that will no longer be in use)
+	-> added new files (version 2)
+	-> using bootstrap for creating a better and responsive webpage
