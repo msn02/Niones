@@ -91,3 +91,10 @@ commit.
 	-> removed files (that will no longer be in use)
 	-> added new files (version 2)
 	-> using bootstrap for creating a better and responsive webpage
+
+[May 20]
+- added contents, modified styles 
+- navbar buttons still in progress 
+
+[]
+- 
