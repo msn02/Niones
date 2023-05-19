@@ -1,32 +1,24 @@
 /*
-	This CSS file contains the custom styles for:
-	-> Navigation Bars
-	-> Font-family
-
 	Palette:
-		#eeeeee
-		#dddddd
+		#eeeeee		#7f000b
+		#dddddd		#8f000c
 		#4f0007
 		#270000
 		#000000
-
-		#7f000b
-		#8f000c
 	src: https://www.color-hex.com/color-palette/6516
 */
 @font-face {
 	font-family: Atomic;
 	src: url(aAtomicMd.ttf);
 }
-
-.bgColorBody {
-	background: #eeeeee;
-}
 .bgColorNavbar {
 	background: #270000;
 }
 .imageSize {
 	width: 200px;
+}
+.nav-link[aria-current="page"]{
+	color: #a4000f;
 }
 .navText a {
 	color: white;
