@@ -1,39 +1,38 @@
-/*
-	Palette:
-		#eeeeee		#7f000b
-		#dddddd		#8f000c
-		#4f0007
-		#270000
-		#000000
-	src: https://www.color-hex.com/color-palette/6516
-*/
 @font-face {
 	font-family: Atomic;
 	src: url(aAtomicMd.ttf);
 }
-.bgColorNavbar {
-	background: #270000;
-}
 .imageSize {
-	width: 200px;
+	width: 180px;
 }
-.nav-link[aria-current="page"]{
-	color: #a4000f;
-}
-.navText a {
+.logOutbutton button {
 	color: white;
 	font-family: Arial;
-	font-size: 0.8rem;
+	font-size: 15px;
+	background: black;
 }
-.navText a:hover {
-	color: #a4000f;
-}	
-.navbar-toggler i {
- 	color: white;
-  	border-color: white;
-}
-.webTitle {
-	font-family: Atomic;
-	font-size: 3vh;
+.logOutbutton button:hover {
+	background: #750DFF;
 	color: white;
 }
+.nav-link[aria-current="page"]{
+	color: #750DFF;
+}
+.nav-item {
+	padding: 5px;
+}
+.navText a {
+	color: black;
+	font-family: Arial;
+	font-size: 0.9rem;
+}
+.navText a:hover {
+	color: #750DFF;
+}	
+.togglerBorder {
+	border-bottom: 3px solid #750DFF;
+	width: 30px;
+	margin: 4px;
+}
+
+/*37007f*/
