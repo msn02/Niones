@@ -94,7 +94,11 @@ commit.
 
 [May 20]
 - added contents, modified styles 
-- navbar buttons still in progress 
+- navbar buttons still in progress
+- renamed, added, and deleted files 
 
-[]
-- 
+[May 22]
+- revision of layout (for the 3rd time)
+- changed color theme
+- removed files no longer in need and added new images
+- aboutMe and portfolio page are the work in progress 
