@@ -102,3 +102,8 @@ commit.
 - changed color theme
 - removed files no longer in need and added new images
 - aboutMe and portfolio page are the work in progress 
+- renamed index.html to contactMe.html
+
+[May 23]
+- modified buttons and navigation bar
+- added content for futurePlans.html and contactMe.html
