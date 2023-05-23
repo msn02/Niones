@@ -2,16 +2,36 @@
 	font-family: Atomic;
 	src: url(aAtomicMd.ttf);
 }
+a:active {
+	color: #750DFF;	
+}
+.customBG1 {
+	background: black;
+}
+.customBG2 {
+	background: white;
+}
+.customButton button {
+	font-family: Arial;
+	background: white;
+	color: #750DFF;
+	font-weight: bold;
+}
+.customButton button:hover {
+	background: #750DFF;
+	color: white;	
+	font-weight: bold;
+}
 .imageSize {
 	width: 180px;
 }
-.logOutbutton button {
+.contactbutton button {
 	color: white;
 	font-family: Arial;
 	font-size: 15px;
 	background: black;
 }
-.logOutbutton button:hover {
+.contactbutton button:hover {
 	background: #750DFF;
 	color: white;
 }
@@ -28,11 +48,21 @@
 }
 .navText a:hover {
 	color: #750DFF;
+}
+.pageContent p {
+	font-family: Arial;
+	font-size: 15px;
+}
+.pageTitle p {
+	font-family: Atomic;
+	font-size: 70px;
+	color: black;
+}
+.textColored {
+	color: #750DFF;
 }	
 .togglerBorder {
 	border-bottom: 3px solid #750DFF;
 	width: 30px;
 	margin: 4px;
 }
-
-/*37007f*/

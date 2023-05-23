@@ -22,32 +22,6 @@
 	font-size: 15px;
 	color: black;
 }
-.customBG1 {
-	background: black;
-}
-.customBG2 {
-	background: white;
-}
-.customButton button {
-	font-family: Arial;
-	background: white;
-	color: #750DFF;
-	font-weight: bold;
-}
-.customButton button:hover {
-	background: #750DFF;
-	color: white;	
-	font-weight: bold;
-}
-.pageContent p {
-	font-family: Arial;
-	font-size: 15px;
-}
-.pageTitle p {
-	font-family: Atomic;
-	font-size: 70px;
-	color: black;
-}
 .subtitle1 {
 	font-size: 17px;
 	font-family: Arial;
@@ -65,9 +39,6 @@
 	color: white;
 	font-weight: bold;
 	text-align: center;
-}
-.textColored {
-	color: #750DFF;
 }
 .title1 {
 	font-family: Atomic;
