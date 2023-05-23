@@ -1,0 +1,30 @@
+.buttonLinks i:hover {
+	color: #750DFF;
+}
+.container1 {
+	border: 1px solid #333333;
+	padding: 10px;
+}
+.container2 {
+	background: #750DFF;
+	padding: 10px;
+}
+.container2 p {
+	color: white;
+	font-size: 15px;
+	text-align: center;
+	font-weight: bold;
+	font-family: Arial;	
+}
+.customIcons {
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	transition: 0.3s;
+}
+.text1 {
+	font-family: Arial;
+	font-size: 18px;
+	color: white;
+	text-align: center;
+}
