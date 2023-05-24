@@ -107,3 +107,14 @@ commit.
 [May 23]
 - modified buttons and navigation bar
 - added content for futurePlans.html and contactMe.html
+
+[May 24]
+- modified css files (added transitions to buttons, removed redundant classes)
+- added blank target to portfolio.html
+- edited social media links for contactMe.html
+
+[May 25]
+- finalized style for contactMe.html
+- added comments for each html file
+
+=================================================================
