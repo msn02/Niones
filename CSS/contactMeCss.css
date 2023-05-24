@@ -2,7 +2,7 @@
 	color: #750DFF;
 }
 .container1 {
-	border: 1px solid #333333;
+	border: 2px solid #333333;
 	padding: 10px;
 }
 .container2 {
@@ -16,15 +16,64 @@
 	font-weight: bold;
 	font-family: Arial;	
 }
-.customIcons {
+.customIcons1 {
 	font-size: 30px;
 	color: white;
 	text-align: center;
 	transition: 0.3s;
+}
+.customIcons2 i {
+	font-size: 20px;
+	color: black;
+}
+.customButton button {
+	font-size: 15px;
+	margin-right: 10px;
+}
+.formFeedback {
+	color: #ff3333;
+	font-size: 14px;
+	font-family: Arial;
+	/*display: inline-block;*/
+	display: none;
+	margin-top: 10px;
+}
+.inputBox input, .inputBox textarea {
+	font-family: arial;
+	font-size: 15px;
+	background: #1a1a1a;
+	border: none;
+	color: white;
+	border-radius: 4px;
+	padding: 8px;
+}
+.inputBox input:focus, .inputBox textarea:focus {
+	box-shadow: none;
+	outline: none;
+	background: #1a1a1a;
+	border: 1px solid white;
+	color: white;
+	opacity: 0.9;
+}
+.inputBox label {
+	text-align: left;
+	margin-bottom: 3px;
+	color: #808080;
+	margin-left: 2px;
+	font-family: Arial;
+	font-size: 15px;
 }
 .text1 {
 	font-family: Arial;
 	font-size: 18px;
 	color: white;
 	text-align: center;
+}
+.textBox {
+	resize: none;
+}
+.title1 {
+	font-family: Atomic;
+	font-size: 40px;
+	color: white;
 }

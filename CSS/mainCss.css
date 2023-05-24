@@ -16,6 +16,7 @@ a:active {
 	background: white;
 	color: #750DFF;
 	font-weight: bold;
+	transition: 0.5s;
 }
 .customButton button:hover {
 	background: #750DFF;
@@ -30,6 +31,7 @@ a:active {
 	font-family: Arial;
 	font-size: 15px;
 	background: black;
+	transition: 0.5s;
 }
 .contactbutton button:hover {
 	background: #750DFF;
@@ -45,6 +47,7 @@ a:active {
 	color: black;
 	font-family: Arial;
 	font-size: 0.9rem;
+	transition: 0.3s;
 }
 .navText a:hover {
 	color: #750DFF;

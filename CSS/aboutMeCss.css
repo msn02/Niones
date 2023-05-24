@@ -3,41 +3,9 @@
 	font-size: 15px;
 	color: white;
 }
-.customBG1 {
-	background: black;
-}
-.customBG2 {
-	background: #750DFF;
-}
-.customButton button {
-	font-family: Arial;
-	background: white;
-	color: #750DFF;
-	font-weight: bold;
-}
-.customButton button:hover {
-	background: #750DFF;
-	color: white;	
-	font-weight: bold;
-}
-.floatingCard {
-	background: #bbb;
-}
 .imgCard {
 	border-radius: 5px;
 	transition: 0.3s;
-}
-.pageContent p {
-	font-family: Arial;
-	font-size: 15px;
-}
-.pageTitle p {
-	font-family: Atomic;
-	font-size: 70px;
-	color: black;
-}
-.textColored {
-	color: #750DFF;
 }
 .title1 {
 	font-family: Atomic;
