@@ -116,5 +116,6 @@ commit.
 [May 25]
 - finalized style for contactMe.html
 - added comments for each html file
+- adjusted colored texts in futurePlans.html
 
 =================================================================
