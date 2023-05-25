@@ -31,7 +31,7 @@
 					<p> Hi! My name is <b>Misty Shaine</b>, a second year student from Bicol University. Currently taking Bachelor of Science in Information Technology, and aspires to be a UI/UX Designer.</p>
 				</div>
 				<div class="col-md-4 my-2 customButton">
-					<a href="portfolio.html"> <button class="btn outline-0 shadow border-0 rounded-1 lh-1 px-3 py-2" type="button"> SEE PORTFOLIO </button> </a>
+					<a href="portfolio.php"> <button class="btn outline-0 shadow border-0 rounded-1 lh-1 px-3 py-2" type="button"> SEE PORTFOLIO </button> </a>
 				</div>
 			</div>
 		</div>
