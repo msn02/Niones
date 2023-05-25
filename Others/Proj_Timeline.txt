@@ -118,4 +118,9 @@ commit.
 - added comments for each html file
 - adjusted colored texts in futurePlans.html
 
+[May 26]
+- converted html files into php
+- made a separate file for the nav bar
+- created a reusable file (navbar) to insert in multiple pages using PHP
+
 =================================================================
