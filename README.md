@@ -1,4 +1,4 @@
-# Personal Profile Blog
+# Personal Profile Website
 FINAL PROJECT in Web Systems and Technology<br> 
 <br>
 NAME: **Misty Shaine Niones** <br>
