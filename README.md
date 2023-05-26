@@ -1,9 +1,9 @@
 # Personal Profile Blog
 FINAL PROJECT in Web Systems and Technology<br> 
 <br>
-NAME: <b>Misty Shaine Niones</b> <br>
-COURSE/YEAR/BLOCK: <b>BSIT 2B</b> <br>
-DATE STARTED: <b>March 21, 2023</b> <br>
+NAME: **Misty Shaine Niones** <br>
+COURSE/YEAR/BLOCK: **BSIT 2B** <br>
+DATE STARTED: **March 21, 2023** <br>
 <br>
-VIDEO: <br> 
-<br>
+
+You can check the video presentation [here](https://youtu.be/j1-9Qi30OoY)!
